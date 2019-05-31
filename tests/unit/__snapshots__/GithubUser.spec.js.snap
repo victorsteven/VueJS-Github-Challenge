@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GithubUser renders the GithubUser component 1`] = `
+<div id="app">
+  <!---->
+  <usersearch-stub></usersearch-stub>
+  <!---->
+  <!---->
+</div>
+`;
+
+exports[`GithubUser renders the component 1`] = `
+<div id="app">
+  <!---->
+  <usersearch-stub></usersearch-stub>
+  <!---->
+  <!---->
+</div>
+`;

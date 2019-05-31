@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserSearch renders the UserSearch component 1`] = `
+<div>
+  <div class="wrapper_input">
+    <form><input type="text" placeholder="Search for Github User..." class="input_search"> <button type="submit" class="button_search">
+        Search
+      </button></form>
+  </div>
+</div>
+`;
+
+exports[`UserSearch renders the component 1`] = `
+<div>
+  <div class="wrapper_input">
+    <form><input type="text" placeholder="Search for Github User..." class="input_search"> <button type="submit" class="button_search">
+        Search
+      </button></form>
+  </div>
+</div>
+`;

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserProfile renders the UserProfile component 1`] = `
+<div>
+  <article class="panel">
+    <div class="panel_right">
+      <h2 class="panel_name">Steven Victor</h2>
+      <div class="panel_bio">Web Developer</div>
+      <div class="panel_followers">Followers: 20</div>
+      <p>Nigeria</p>
+    </div>
+    <div class="panel_left">
+      <div class="panel_image"><img src="https://github.com/images/error/victorsteven_happy.gif" alt="Steven Victor" class="panel_image_avatar"></div>
+    </div>
+  </article>
+</div>
+`;
+
+exports[`UserProfile renders the component 1`] = `
+<div>
+  <article class="panel">
+    <div class="panel_right">
+      <h2 class="panel_name">Steven Victor</h2>
+      <div class="panel_bio">Web Developer</div>
+      <div class="panel_followers">Followers: 20</div>
+      <p>Nigeria</p>
+    </div>
+    <div class="panel_left">
+      <div class="panel_image"><img src="https://github.com/images/error/victorsteven_happy.gif" alt="Steven Victor" class="panel_image_avatar"></div>
+    </div>
+  </article>
+</div>
+`;
